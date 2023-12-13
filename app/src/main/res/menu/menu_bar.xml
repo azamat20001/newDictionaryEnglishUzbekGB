@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dictionary"
+        android:icon="@drawable/img_black_search"
+        android:title="Search"/>
+
+    <item
+        android:id="@+id/favourites"
+        android:icon="@drawable/img_favourites"
+        android:title="Favourites"/>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_info_about"
+        android:title="Information"/>
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Share"/>
+
+    <item
+        android:id="@+id/exit_app"
+        android:icon="@drawable/img_exit"
+        android:title="Exit"/>
+
+</menu>
